@@ -5,8 +5,8 @@
 2. Desarrollar un sistema para gestionar los libros de una biblioteca: El sistema debe permitir operaciones como agregar, editar, eliminar y buscar libros. Además, debe ser capaz de administrar la información sobre los autores, las categorías y cualquier otra información relevante sobre los libros.
 
 3. Funcionalidades específicas del sistema:
--       Búsqueda de libros: Los usuarios deben poder buscar libros por título, autor o categoría.
--       Préstamos de libros: Los usuarios deberían poder solicitar el préstamo de un libro y, si está disponible, el sistema debe permitirlo registrando la transacción y actualizando el estado del libro.
+- Búsqueda de libros: Los usuarios deben poder buscar libros por título, autor o categoría.
+- Préstamos de libros: Los usuarios deberían poder solicitar el préstamo de un libro y, si está disponible, el sistema debe permitirlo registrando la transacción y actualizando el estado del libro.
 
 4. Implementar el uso de clases y métodos: Las clases deben estar bien estructuradas y definir métodos que realicen tareas específicas. Por ejemplo, podría haber una clase `Libro` con métodos para agregar, buscar y editar libros, y una clase `Biblioteca` que maneje la gestión de libros y la interacción con los usuarios.
 
